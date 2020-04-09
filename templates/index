@@ -2,16 +2,12 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Michael Spangler | Systems Programming</title>
+        <title></title>
         <link rel="stylesheet" href="/assets/style.css" />
     </head>
     <body>
         <div>
             <section class="content">
-                <p>
-                Hi! My name is Michael Spangler. I'm a software engineer. I write the type of articles I'd like to read: brief, concrete demonstrations centered around testing and unix.
-                </p>
-                <p><strong>### Posts</strong></p>
                 <article class="links"></article>
             </section>
         </div>
